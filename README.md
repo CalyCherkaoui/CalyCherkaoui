@@ -24,8 +24,7 @@ const HOUDA = {
     funFact: "I enjoy coding in rainy weather!"
 };
 ```
-  <br>
-  <img align="right" alt="GIF" width="250px" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif">
+  <img align="right" alt="GIF" width="250px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
   <br>
 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/ruby/ruby-ar21.svg"></code>
