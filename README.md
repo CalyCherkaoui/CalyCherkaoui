@@ -24,7 +24,8 @@ const HOUDA = {
     funFact: "I enjoy coding in rainy weather!"
 };
 ```
-  <img align="right" alt="GIF" width="250px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  <br>
+  <img align="right" alt="GIF" width="250px" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif">
   <br>
 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/ruby/ruby-ar21.svg"></code>
@@ -47,7 +48,7 @@ const HOUDA = {
   <code><img width="50px" src="https://img.icons8.com/bubbles/2x/console.png"></code>
 <br>  
 
-## Statistics
+## My Github Public Stats
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calycherkaoui&layout=compact)](https://github.com/calycherkaoui/github-readme-stats)
 
 <br >
