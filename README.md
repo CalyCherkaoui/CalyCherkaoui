@@ -53,7 +53,7 @@ const HOUDA = {
 ## My credentials:
 
 <!-- <div align="center"> -->
-<a href="https://www.credential.net/cbb6914d-9ea3-4769-8f48-604d29480e17#gs.cws8uy"><img width="100px" src="./rubyCertificate.png" /></a>
+<a href="https://www.credential.net/cbb6914d-9ea3-4769-8f48-604d29480e17#gs.cws8uy"><img width="100px" src="images/rubyCertificate.png" /></a>
 <!-- </div> -->
 
 
