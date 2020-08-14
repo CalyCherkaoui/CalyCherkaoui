@@ -23,4 +23,6 @@ const HOUDA = {
 
 ## Statistics
 
+![Houda's github stats](https://github-readme-stats.vercel.app/api?username=calycherkaoui&count_private=true)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calycherkaoui&layout=compact)](https://github.com/calycherkaoui/github-readme-stats)
