@@ -28,6 +28,7 @@ const HOUDA = {
   <br>
 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/ruby/ruby-ar21.svg"></code>
+  <code><img width="50px" src="https://guides.rubyonrails.org/images/favicon.ico"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <code><img width="5%" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
@@ -48,13 +49,13 @@ const HOUDA = {
 <br>  
 
 ## My Github Public Stats
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calycherkaoui&layout=compact)](https://github.com/calycherkaoui/github-readme-stats)
 
-<br >
-<br > -->
+<br>
+<img height="195px" src="https://github-readme-stats.vercel.app/api/?username=calycherkaoui&show_icons=true&hide_border=true&count_private=true" />
 
-![Houda's github stats](https://github-readme-stats.vercel.app/api?username=calycherkaoui&count_private=true)
+<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calycherkaoui&layout=compact)](https://github.com/calycherkaoui/github-readme-stats" />
 
+<br>
 
 ## Contact me:
 
