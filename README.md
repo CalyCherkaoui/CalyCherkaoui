@@ -1,5 +1,9 @@
 ### Hi I'm Houda, a GIS Engineer and a Full-stack Developer 
 
+<div align="center">
+	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+</div>
+
 ```javascript
 const HOUDA = {
     pronouns: "She" | "Her",
@@ -23,18 +27,22 @@ const HOUDA = {
 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/ruby/ruby-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+    <code><img width="5%" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+  <code><img width="60px" src="https://cdn.svgporn.com/logos/sass.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="60px" src="https://img.icons8.com/color/2x/nodejs.png"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
-  <code><img width="5%" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp"></code>
   <code><img width="5%" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp"></code>
-  <code><img width="3%" src="https://cdn.svgporn.com/logos/html-5.svg"></code>
-  <code><img width="3%" src="https://cdn.svgporn.com/logos/css-3.svg"></code>
+  <code><img width="30px" src="https://cdn.svgporn.com/logos/html-5.svg"></code>
+  <code><img width="30px" src="https://cdn.svgporn.com/logos/css-3.svg"></code>
+  <code><img width="50px" src="https://img.icons8.com/bubbles/2x/console.png"></code>
+  
 
 ## Statistics
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calycherkaoui&layout=compact)](https://github.com/calycherkaoui/github-readme-stats)
