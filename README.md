@@ -54,7 +54,7 @@ const HOUDA = {
 <div align="center">
 <img width="60%" src="https://github-readme-stats.vercel.app/api/?username=calycherkaoui&show_icons=true&hide_border=true&count_private=true" />
 <br><br>
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calycherkaoui&layout=compact)](https://github.com/calycherkaoui/github-readme-stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calycherkaoui&layout=compacts&hide_border=true&count_private=true" />
 </div>
 <br>
 
