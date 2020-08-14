@@ -7,10 +7,11 @@ const HOUDA = {
     askMeAbout: ["web dev", "tech", "Drawing"],
     technologies: {
         frontEnd: {
-            css: ["bootstrap"]
+            css: ["bootstrap"],
+            js: ["react"]
         },
         backEnd: {
-            js: ["node", "react"],
+            js: ["node"],
             ruby: ["rails"]
         },
         databases: ["Postgres", "MySql", "sqlite"],
@@ -19,3 +20,7 @@ const HOUDA = {
     funFact: "I enjoy coding in rainy weather!"
 };
 ```
+
+## Statistics
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calycherkaoui&layout=compact)](https://github.com/calycherkaoui/github-readme-stats)
