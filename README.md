@@ -48,7 +48,14 @@ const HOUDA = {
   <code><img width="30px" src="https://cdn.svgporn.com/logos/html-5.svg"></code>
   <code><img width="30px" src="https://cdn.svgporn.com/logos/css-3.svg"></code>
   <code><img width="50px" src="https://img.icons8.com/bubbles/2x/console.png"></code>
-<br>  
+<br>
+
+## My credentials:
+
+<!-- <div align="center"> -->
+<a href="https://www.credential.net/cbb6914d-9ea3-4769-8f48-604d29480e17#gs.cws8uy"><img width="100px" src="rubyCertificate.png" /></a>
+<!-- </div> -->
+
 
 ## My Github Public Stats
 
