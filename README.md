@@ -31,25 +31,25 @@ const HOUDA = {
   <img align="right" alt="GIF" width="250px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
   <br>
 
-  <img width="10%" src="https://www.vectorlogo.zone/logos/ruby/ruby-ar21.svg">
-  <img width="50px" src="https://guides.rubyonrails.org/images/favicon.ico">
-  <img width="5%" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif">
-  <img width="5%" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">
-  <img width="60px" src="https://cdn.svgporn.com/logos/sass.svg">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
-  <img width="60px" src="https://img.icons8.com/color/2x/nodejs.png">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
-  <img width="5%" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg">
-  <img width="30px" src="https://cdn.svgporn.com/logos/html-5.svg">
-  <img width="30px" src="https://cdn.svgporn.com/logos/css-3.svg">
-  <img width="50px" src="https://img.icons8.com/bubbles/2x/console.png">
+  <a href="#"><img width="10%" src="https://www.vectorlogo.zone/logos/ruby/ruby-ar21.svg"></a>
+  <a href="#"><img width="50px" src="https://guides.rubyonrails.org/images/favicon.ico"></a>
+  <a href="#"><img width="5%" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif"></a>
+  <a href="#"><img width="5%" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp"></a>
+  <a href="#"><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a>
+  <a href="#"><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a>
+  <a href="#"><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a>
+  <a href="#"><img width="60px" src="https://cdn.svgporn.com/logos/sass.svg"></a>
+  <a href="#"><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></a>
+  <a href="#"><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a>
+  <a href="#"><img width="60px" src="https://img.icons8.com/color/2x/nodejs.png"></a>
+  <a href="#"><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a>
+  <a href="#"><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a>
+  <a href="#"><img width="10%" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></a>
+  <a href="#"><img width="5%" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp"></a>
+  <a href="#"><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></a>
+  <a href="#"><img width="30px" src="https://cdn.svgporn.com/logos/html-5.svg"></a>
+  <a href="#"><img width="30px" src="https://cdn.svgporn.com/logos/css-3.svg"></a>
+  <a href="#"><img width="50px" src="https://img.icons8.com/bubbles/2x/console.png"></a>
 <br>
 
 ## My credentials:
