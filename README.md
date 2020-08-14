@@ -54,10 +54,9 @@ const HOUDA = {
 
 ## My credentials:
 
-
-<a href="https://www.credential.net/cbb6914d-9ea3-4769-8f48-604d29480e17#gs.cws8uy" ><img width="100px" src="./images/rubyCertificate.png" alt="certificateRuby"></a>
-<!-- ![screenshot](/images/rubyCertificate.png =100x) -->
-
+<br>
+<img width="100px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/21769053" alt="certificateRuby">
+<br>
 
 ## My Github Public Stats
 
