@@ -31,10 +31,10 @@ const HOUDA = {
   <img align="right" alt="GIF" width="250px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
   <br>
 
-  <a href="#"><img width="10%" src="https://www.vectorlogo.zone/logos/ruby/ruby-ar21.svg"></a>
-  <a href="#"><img width="50px" src="https://guides.rubyonrails.org/images/favicon.ico"></a>
-  <a href="#"><img width="5%" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif"></a>
-  <a href="#"><img width="5%" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp"></a>
+  <a href="https://www.ruby-lang.org/en/documentation/"><img width="10%" src="https://www.vectorlogo.zone/logos/ruby/ruby-ar21.svg" alt="Ruby"></a>
+  <a href="https://guides.rubyonrails.org/"><img width="50px" src="https://guides.rubyonrails.org/images/favicon.ico" alt="Rails"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img width="5%" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="Javascript"></a>
+  <a href="https://github.com/"><img width="5%" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" alt="GitHub"></a>
   <a href="#"><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a>
   <a href="#"><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a>
   <a href="#"><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a>
