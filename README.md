@@ -75,9 +75,12 @@ const HOUDA = {
 - Github: [@CalyCherkaoui](https://github.com/CalyCherkaoui)
 - Twitter: [@Houda59579688](https://twitter.com/Houda59579688)
 - Linkedin: [Houda-Cherkaoui](https://www.linkedin.com/in/houda-cherkaoui-64106395/)
+- Facebook: [Houda-Cherkaoui](https://www.facebook.com/houdacherkaouicalypso)
+- Instagram: [@caly_cher](https://www.instagram.com/caly_cher)
+- Youtube: [Houda](https://www.youtube.com/channel/UCMgAJT2iC4pINzN5TJPPrrg/playlists?view_as=subscriber)
 
 <p align="center">
-<a href="https://twitter.com/Houda59579688"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/CalyCherkaoui"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/calypsoCher"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/houda-cherkaoui-64106395/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a>
+<a href="https://twitter.com/Houda59579688"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/CalyCherkaoui"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/houdacherkaouicalypso"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/houda-cherkaoui-64106395/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a>
 </p>
 
 ____
