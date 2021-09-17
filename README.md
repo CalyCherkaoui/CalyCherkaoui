@@ -13,16 +13,14 @@ const HOUDA = {
     askMeAbout: ["web dev", "tech", "art", "GIS"],
     technologies: {
         frontEnd: {
-            css: ["bootstrap"],
-            js: ["react"]
+            css: ["sass", "bootstrap"],
+            js: ["react", "redux"]
         },
         backEnd: {
-            js: ["node"],
-            ruby: ["rails"]
+            ruby: ["ruby on rails"]
         },
-        databases: ["Postgres", "MySql", "sqlite"],
+        databases: ["SQL", "Postgres", "sqlite"],
     },
-    currentProject: "I am developing my Portfolio with Ruby on rails",
     funFact: "I enjoy coding in rainy weather!"
 };
 ```
@@ -64,15 +62,6 @@ const HOUDA = {
 <a href="https://www.credential.net/951575f8-7fc1-43be-98d3-56fc30f4835a#gs.yaz39f"> <img width="250px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/30906725" alt="certificateJavascript"></a>
 <br>
 
-## My Github Public Stats
-
-<br>
-<div align="center">
-<img width="60%" src="https://github-readme-stats.vercel.app/api/?username=calycherkaoui&show_icons=true&hide_border=true&count_private=true" />
-<!-- <br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calycherkaoui&layout=compacts&hide_border=true&count_private=true" /> -->
-</div>
-<br>
 
 ## Contact me:
 
