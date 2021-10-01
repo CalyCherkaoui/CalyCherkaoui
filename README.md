@@ -53,11 +53,15 @@ const HOUDA = {
 ## My credentials:
 
 <br>
+<a href="https://www.credential.net/cbb6914d-9ea3-4769-8f48-604d29480e17#gs.eraoa7"><img width="250px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/39262400" alt="certificateFullStack"></a>
+<span>  <span>
+<a href="https://www.credential.net/6b5be752-e2a2-4fdd-ad17-ba768a99dacc#gs.yaukit"> <img width="250px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/25882075" alt="certificateRails"></a>
+<span>  <span>
+<a href="https://www.credential.net/fac86a3b-aa9c-4322-9dc9-c471d2c2b80b#gs.cqqm6j"><img width="250px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/39262401" alt="certificateReact"></a>
+<span>  <span>
 <a href="https://www.credential.net/cbb6914d-9ea3-4769-8f48-604d29480e17#gs.eraoa7"><img width="250px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/21769053" alt="certificateRuby"></a>
 <span>  <span>
 <a href="https://www.credential.net/f701ef7c-de58-4d3f-bb26-7adeed9ce8b5#gs.eral3p"> <img width="250px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/22112645" alt="certificateHtmlCss"></a>
-<span>  <span>
-<a href="https://www.credential.net/6b5be752-e2a2-4fdd-ad17-ba768a99dacc#gs.yaukit"> <img width="250px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/25882075" alt="certificateRails"></a>
 <span>  <span>
 <a href="https://www.credential.net/951575f8-7fc1-43be-98d3-56fc30f4835a#gs.yaz39f"> <img width="250px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/30906725" alt="certificateJavascript"></a>
 <br>
