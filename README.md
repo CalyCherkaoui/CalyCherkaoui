@@ -69,11 +69,12 @@ const HOUDA = {
 
 ## Contact me:
 
-- Portfolio: [Houda Cherkaoui](https://houda-cherkaoui.netlify.app/)
+- Portfolio: [houda-cherkaoui.me](http://houda-cherkaoui.me)
 - Linkedin: [Houda-Cherkaoui](https://www.linkedin.com/in/houda-cherkaoui)
+- AngelList: [Houda Cherkaoui](https://angel.co/u/houda-cherkaoui)
 - Github: [@CalyCherkaoui](https://github.com/CalyCherkaoui)
 - Twitter: [@Houda59579688](https://twitter.com/Houda59579688)
-- Linkedin: [Houda-Cherkaoui](https://www.linkedin.com/in/houda-cherkaoui)
+- Linkedin: [houda-cherkaoui](https://www.linkedin.com/in/houda-cherkaoui)
 - Facebook: [Houda-Cherkaoui](https://www.facebook.com/houdacherkaouicalypso)
 - Instagram: [@caly_cher](https://www.instagram.com/caly_cher)
 - Youtube: [Houda](https://www.youtube.com/channel/UCMgAJT2iC4pINzN5TJPPrrg/playlists?view_as=subscriber)
