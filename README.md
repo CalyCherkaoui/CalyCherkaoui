@@ -26,18 +26,18 @@ const HOUDA = {
 		   test: [ "Jest-test", "React-test-renderer"],
         },
 	linters: {
-		  backend: "Rubocop",
-		  frontend: ["Eslint", "Stylelint", "Webhint", "Lighthouse"],
+		   backend: "Rubocop",
+		   frontend: ["Eslint", "Stylelint", "Webhint", "Lighthouse"],
 	},
 	tools: {
-		  versionControl: ["Git", "GitHub"],
-		  concepts: ["Object-oriented Programming", "Functional Programming"],
-		  methods: ["Test Driven Development", "Responsive Development"],
+		   versionControl: ["Git", "GitHub"],
+		   concepts: ["Object-oriented Programming", "Functional Programming"],
+		   methods: ["Test Driven Development", "Responsive Development"],
 	},	  
     },
     softSkills: {
-    	programmingRelated: ["Remote work", "Pair-programming"],
-	personal: ["Methodical", "Analytical mindset", "Fast learner"],
+    		  programmingRelated: ["Remote work", "Pair-programming"],
+		  personal: ["Methodical", "Analytical mindset", "Fast learner"],
     },
     iSpeak: ["English", "French", "Arabic"],
     funFact: "I enjoy coding in rainy weather!"
