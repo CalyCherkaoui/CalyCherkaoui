@@ -61,9 +61,9 @@ const HOUDA = {
 <span>  <span>
 <a href="https://www.credential.net/cbb6914d-9ea3-4769-8f48-604d29480e17#gs.eraoa7"><img width="250px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/21769053" alt="certificateRuby"></a>
 <span>  <span>
-<a href="https://www.credential.net/f701ef7c-de58-4d3f-bb26-7adeed9ce8b5#gs.eral3p"> <img width="250px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/22112645" alt="certificateHtmlCss"></a>
-<span>  <span>
 <a href="https://www.credential.net/951575f8-7fc1-43be-98d3-56fc30f4835a#gs.yaz39f"> <img width="250px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/30906725" alt="certificateJavascript"></a>
+<span>  <span>
+<a href="https://www.credential.net/f701ef7c-de58-4d3f-bb26-7adeed9ce8b5#gs.eral3p"> <img width="250px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/22112645" alt="certificateHtmlCss"></a>
 <br>
 
 
