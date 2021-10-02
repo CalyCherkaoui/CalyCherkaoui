@@ -8,19 +8,38 @@
 
 ```javascript
 const HOUDA = {
-    pronouns: "She" | "Her",
-    code: ["Javascript", "Ruby"],
-    askMeAbout: ["web dev", "tech", "art", "GIS"],
-    technologies: {
-        frontEnd: {
-            css: ["sass", "bootstrap"],
-            js: ["react", "redux"]
-        },
+    pronouns: "She | Her",
+    techStack: ["Ruby on Rails", "Ruby", "React", "Redux", "Javascript"],
+    askMeAbout: ["Full-Stack developer", "GIS Engineer"],
+    techSkills: {
         backEnd: {
-            ruby: ["ruby on rails"]
+        	   language: "Ruby",
+		   technologies: ["Ruby On Rails", "Devise", "JWT-devise", "Jsonapi-rails", "Rails-Admin"],
+		   databases: ["SQL", "Postgres", "sqlite"],
+		   test: [ "Rspec", "Capybara", "Shoulda Matchers"],
+        }, 
+        frontEnd: {
+        	   language: "JavaScript",
+		   technologies: ["React", "Redux", "Axios", "DOM", "Webpack", "Redux-thunk"],
+		   markup: "HTML",
+		   style: ["CSS", "SASS", "Bootstrap"],
+		   test: [ "Jest-test", "React-test-renderer"],
         },
-        databases: ["SQL", "Postgres", "sqlite"],
+	linters: {
+		  backend: "Rubocop",
+		  frontend: ["Eslint", "Stylelint", "Webhint", "Lighthouse"],
+	},
+	tools: {
+		  versionControl: ["Git", "GitHub"],
+		  concepts: ["Object-oriented Programming", "Functional Programming"],
+		  methods: ["Test Driven Development", "Responsive Development"],
+	},	  
     },
+    softSkills: {
+    	programmingRelated: ["Remote work", "Pair-programming"],
+	personal: ["Methodical", "Analytical mindset", "Fast learner"],
+    },
+    iSpeak: ["English", "French", "Arabic"],
     funFact: "I enjoy coding in rainy weather!"
 };
 ```
