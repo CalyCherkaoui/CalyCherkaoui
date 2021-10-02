@@ -80,7 +80,7 @@ const HOUDA = {
 - Youtube: [Houda](https://www.youtube.com/channel/UCMgAJT2iC4pINzN5TJPPrrg/playlists?view_as=subscriber)
 
 <p align="center">
-<a href="https://twitter.com/Houda59579688"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/CalyCherkaoui"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/houdacherkaouicalypso"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/houda-cherkaoui"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a>
+<a href="https://www.linkedin.com/in/houda-cherkaoui"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a><a href="https://twitter.com/Houda59579688"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/CalyCherkaoui"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/houdacherkaouicalypso"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a>
 </p>
 
 ____
