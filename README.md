@@ -89,7 +89,7 @@ const HOUDA = {
 - Linkedin: [Houda-Cherkaoui](https://www.linkedin.com/in/houda-cherkaoui)
 - AngelList: [Houda Cherkaoui](https://angel.co/u/houda-cherkaoui)
 - Github: [@CalyCherkaoui](https://github.com/CalyCherkaoui)
-- Twitter: [@Houda59579688](https://twitter.com/Houda59579688)
+- Twitter: [@HoudaaCherkaoui](https://twitter.com/HoudaaCherkaoui)
 - Linkedin: [houda-cherkaoui](https://www.linkedin.com/in/houda-cherkaoui)
 - Facebook: [Houda-Cherkaoui](https://www.facebook.com/houdacherkaouicalypso)
 - Instagram: [@caly_cher](https://www.instagram.com/caly_cher)
