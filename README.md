@@ -54,11 +54,8 @@ const HOUDA = {
   <a href="https://github.com/"><img width="5%" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" alt="GitHub"></a>
   <a href="#"><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a>
   <a href="#"><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a>
-  <a href="#"><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a>
   <a href="#"><img width="60px" src="https://cdn.svgporn.com/logos/sass.svg"></a>
   <a href="#"><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></a>
-  <a href="#"><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a>
-  <a href="#"><img width="60px" src="https://img.icons8.com/color/2x/nodejs.png"></a>
   <a href="#"><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a>
   <a href="#"><img width="10%" src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif"></a>
   <a href="#"><img width="10%" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></a>
